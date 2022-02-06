@@ -1,4 +1,4 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "My New Test Hugo Site"
-theme = "learn"
+theme = "hugo-theme-learn"
